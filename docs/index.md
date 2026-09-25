@@ -9,20 +9,16 @@ This wiki is a community-written encyclopedia for everything related to the Otte
 
 The server has many unique features that anyone can find appealing. Listed below are some of the many things the server has to offer:
 
-[Races](Races.md), a twist on the average Minecraft experience.
-
 [Crates](Crates.md), a way to support the server while getting unique cosmetics and gear.
 
 [Dungeons](Dungeons.md), a great way to progress the storyline, obtain loot, and have fun all at the same time.
-
-[Campaign](Campaign.md ), the main storyline surrounding the server and world.
 
 The server has a very vast history and many things to explore, and all (hopefully) will be written on this wiki. Stayed tuned!
 
 ### How to join OtterSMP:
 #### Java Edition
 
-1. Boot up Minecraft "1.20x" or higher
+1. Boot up Minecraft "1.20.4" or higher
 
 2. Click on "Multiplayer"
 
@@ -42,12 +38,14 @@ Congratulations! You're done! We can't wait to see you there!
 
 3. Click on "Add Friends" tab
 
-4. Type "PlayOtterSMP" for the gamertag
+4. Type "play.ottersmp.com" for the IP
 
-5. Click and Join OtterSMP!
+5. Type "19132" for the port
+
+6. Click and Join OtterSMP!
 
 
-Congratulations! You're done! We can't wait to see you there! If you want to join through the conventional method, the IP is play.ottersmp.com and the port is 19132
+Congratulations! You're done! We can't wait to see you there!
 
 (If you cannot join make sure to update your Minecraft to the latest version)
 
